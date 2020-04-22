@@ -1,0 +1,133 @@
+
+<html>
+<head>
+<title> TOURISM IN KERALA</TITLE>
+</HEAD>
+<BODY bgcolor = "green" TEXT = "yellow" LINK = "ORANGE" VLINK = "pink">
+<FONT FACE="Comic Sans MS">
+<center><H1><u>TOURISM IN KERALA :</u></H1>
+<br><br><font face = "Lucida Calligraphy" color = "cyan"><marquee direction = "left"><h1>"Kerala - God's own country."</h1></marquee></font><br><br>
+<img src = "Kettuvallam[1].jpg" alt = "kerala" border = "3" height = "800" width = "1200"></center>
+<HR color = "silver">
+Kerala is a coastal state on the Indian peninsula.kerala is also known as "God's own country".
+Kerala is a <font color = "pink"><i>major tourist attraction </i></font>in India.Kerala is well renowned for it's rich cultural heritage & bio-diversity.
+<br><br><br>
+Some major tourist attractions in Kerala :
+<ul>
+<li><A HREF = " Alappuzha .HTML"><B>Alappuzha</B></A></LI>
+<LI><A HREF = "Ernakulam.HTML"><B>Ernakulam</B></A></LI>
+<LI><A HREF = "Idukki.HTML"><B>Idukki</B></A></LI>
+<LI><A HREF = "Kannur.HTML"><B>Kannur</B></A></LI>
+<LI><A HREF = "Kasaragod.HTML"><B>Kasaragod</B></A></LI>
+<LI><A HREF = "Periyar.HTML"><B>Periyar </B></A></LI>
+<LI><A HREF = "Thiruvananthapuram .HTML"><B>Thiruvananthapuram </B></A></LI>
+<LI><A HREF = "Kottayam.HTML"><B> Kottayam</B></A></LI>
+<LI><A HREF = "Marine Drive.HTML"><B>Marine Drive</B></A></LI>
+<LI><A HREF = "Chinnar.HTML"><B>Chinnar</B></A></LI><IMG SRC ="Gods_own_country[1].jpg" ALT = "GODS OWN COUNTRY" ALIGN = "RIGHT" border = "2">
+</UL>
+<BR><BR>
+<a href = "#distance">Road distance </a>
+<BR><BR><br><br><br><br><br><br><br><br><br><BR><BR><br><br><br><br><br><br><br><br><br><BR><BR><br><br><br><br><br><br><br><br><br>
+<center>
+<a name = "distance">
+<table border = "2" bordercolor = "orange">
+<font color = "maroon">
+<caption><u> Road distance from major cities in India.</u></caption>
+<tr bgcolor = "olive" >
+<td text = "maroon">Tourist places in Kerala:</td>
+<td>Distance from Patna:</td>
+<td>Distance from Kolkata:</td>
+<td>Distance from Delhi:</td>
+<td>Distance from Mumbai:</td>
+<td>Distance from Chennai:</td>
+</tr>
+<tr bgcolor = "blue">
+<td>Kochi(Marine Drive)</td>
+<td>2521 km</td>
+<td>2360 km</td>
+<td>2594 km</td>
+<td>1384 km</td>
+<td>684 km</td>
+</tr>
+<tr bgcolor = "maroon">
+<td>Alappuzha</td>
+<td>2604 km</td>
+<td>2432 km</td>
+<td>2777 km</td>
+<td>1440 km</td>
+<td>720 km</td>
+</tr>
+<tr bgcolor = "blue">
+<td>Thiruvananthapuram</td>
+<td>2725 km</td>
+<td>2384 km</td>
+<td>2814 km</td>
+<td>1543 km</td>
+<td>708 km</td>
+</tr>
+<tr bgcolor = "maroon">
+<td>Ernakulam</td>
+<td>2544 km</td>
+<td>2372 km</td>
+<td>2717 km</td>
+<td>1380 km</td>
+<td>660 km</td>
+</tr>
+<tr bgcolor = "blue">
+<td>Chinnar</td>
+<td>2441 km</td>
+<td>2269 km</td>
+<td>2511 km</td>
+<td>1430 km</td>
+<td>530 km</td>
+</tr>
+<tr bgcolor = "maroon">
+<td>Kottayam</td>
+<td>2616 km</td>
+<td>2443 km</td>
+<td>2789 km</td>
+<td>1451 km</td>
+<td>697 km</td>
+</tr>
+<tr bgcolor = "blue">
+<td>Kasaragod</td>
+<td>2309 km</td>
+<td>2466 km</td>
+<td>2342 km</td>
+<td>1004 km</td>
+<td>705 km</td>
+</tr>
+<tr bgcolor = "maroon">
+<td>Kannur</td>
+<td>2339 km</td>
+<td>2496 km</td>
+<td>2439 km</td>
+<td>1102 km</td>
+<td>663 km</td>
+</tr>
+<tr bgcolor = "blue">
+<td>Periyar</td>
+<td>1494 km</td>
+<td>1370 km</td>
+<td> 1766 km</td>
+<td>1032 km</td>
+<td>8.1 km</td>
+</tr>
+<tr bgcolor = "maroon">
+<td>Idukki</td>
+<td>2560 km</td>
+<td>2388 km</td>
+<td>2630 km</td>
+<td>2630 km</td>
+<td>622 km</td>
+</tr></a>
+</center>
+</font>
+</table><BR><BR><BR>
+MADE BY:<BR>
+SAUMYA SHANDILYA<BR>
+<BR>
+<BR><BR> 
+<HR color = "silver">
+</BODY>
+</HTML> 
